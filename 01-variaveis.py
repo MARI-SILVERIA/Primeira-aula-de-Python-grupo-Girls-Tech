@@ -4,3 +4,10 @@ idade = 47
 
 print(nome)
 print(idade)
+
+
+cidade = "Carapicuíba"
+profissao = "Operações"
+
+print(cidade)
+print()
