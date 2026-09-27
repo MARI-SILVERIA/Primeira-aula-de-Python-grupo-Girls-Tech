@@ -10,4 +10,7 @@ cidade = "Carapicuíba"
 profissao = "Operações"
 
 print(cidade)
-print()
+print(profissão)
+
+
+
